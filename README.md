@@ -2,4 +2,4 @@
 
 ## 1. Learnt how to commit code
 ## 2. Git Structure and logging
-## 3. Exception HAndling and testing the code
+## 3. Exception Handling and testing the code
